@@ -1,4 +1,4 @@
-#Llama 2 Chatbot
+# Llama 2 Chatbot
 The Llama 2 Chatbot is a streamlined, user-friendly application built using Streamlit and powered by the Replicate platform, leveraging the advanced capabilities of the Llama 2 language models. This chatbot is designed to deliver engaging conversational experiences, allowing users to interact with the Llama 2 models in a seamless manner. Below is a guide on how to set up and use the chatbot.
 
 Features
